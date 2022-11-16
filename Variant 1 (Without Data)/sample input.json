@@ -1,0 +1,4 @@
+{
+    "Table Names" : ["Sales", "Sales", "Sales", "Sales", "Sales", "Sales", "Sales", "Insurance", "Insurance", "Insurance", "Insurance", "Sales", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance", "Insurance"],
+    "Table Columns" : ["name", "address", "email", "ssn", "passport", "license", "credit card", "dob", "phone number", "credential", "ip", "nm", "address", "dl", "contact", "age", "birthday", "card number", "social security number", "driving licence no", "start date", "end date", "age", "gender"]
+}
